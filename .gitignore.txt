@@ -1,0 +1,2 @@
+.DS_store
+a_dibujos_texto/.DS_storeb_maquina_dibujar/.DS_storec_remix_pintura/.DS_stored_ediciones/.DS_store
