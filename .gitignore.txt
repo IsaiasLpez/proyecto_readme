@@ -1,2 +1,6 @@
 .DS_store
-a_dibujos_texto/.DS_storeb_maquina_dibujar/.DS_storec_remix_pintura/.DS_stored_ediciones/.DS_store
+a_dibujos_texto/.DS_store
+a_dibujos_texto/codigos/.DS_storeb_maquina_dibujar/.DS_storeb_maquina_dibujar/codigos/.DS_store
+c_remix_pintura/.DS_store
+c_remix_pintura/codigos/.DS_stored_ediciones/.DS_store
+d_ediciones/codigos/.DS_store
